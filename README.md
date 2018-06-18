@@ -12,6 +12,7 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/29547780/41563617-09f2667a-7348-11e8-964e-ec0dff1366dc.png">
 </p>
+
 * Although these were great projects, creating an application in Spring was very difficult.
 * This is when _Spring Boot_ came in as it made it easy to create Spring base applications quickly and easily.
 * After Spring Boot, came _Spring Cloud_ which was built on top of _Spring Boot_ and was created to simplify and use cloud
