@@ -37,3 +37,17 @@ ton of systems in production today.
 
 ## Understanding Spring Boot's Key Features
 
+### Auto-Configuration
+
+* Spring Boot will automatically configure and setup an application based on its surrounding
+as well as hints provided by the developer.
+
+### Standalone
+
+* You don't need to deploy your application to a web-server or anything of that sort to get
+to run. You literally just run the application with just one command just like you would 
+with any other application.
+
+### Opinionated
+
+* Spring Boot has a chosen way of doing things by default.
