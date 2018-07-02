@@ -51,3 +51,17 @@ with any other application.
 ### Opinionated
 
 * Spring Boot has a chosen way of doing things by default.
+
+## Spring Boot Auto-Configuration
+
+* Attempts to automatically configure your Spring application based on the dependencies that
+you have added.
+* Setting up auto-configuration is effortless. The developer only needs to add an annotation
+to their application as below:
+```java
+    @EnableAutoConfiguration
+    public class DemoApplication {
+        ...
+    }
+```
+* Configurations are easy to enable or disable.
