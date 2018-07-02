@@ -25,3 +25,15 @@ patterns in building Spring Application using pattern such as _Service Discovery
 * Backwards compatible.
 * Large and active community.
 * Continually innovates and evolves.
+
+---
+
+## Spring Boot Makes Spring Both Quick and Easy
+
+* Learning any new technology can be hard, confusing and frustrating.
+* Thankfully Spring Boot makes learning _Spring_ both quick and easy.
+* Don't confuse _Easy_ with _Lack of Features_. Spring Boot is fully featured and used on a 
+ton of systems in production today.
+
+## Understanding Spring Boot's Key Features
+
